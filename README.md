@@ -1,2 +1,2 @@
-# hostpitalmngt-ui-react
-Hospital management User Interface using React.
+# Emotion Detection and Speech Synthesis Using BERT
+Sentiment analysis using BERT - NLP model
